@@ -1,4 +1,4 @@
-# Sales Analysis Using Power BI - README
+# Sales Analysis Using Power BI
 
 ## Project Overview
 This Power BI project provides a visual analysis of a company's sales report, focusing on the distribution of sales by geography and product segment, as well as a performance comparison among various companies.
